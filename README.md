@@ -1,6 +1,6 @@
 # GabrielMendesdDZ
 
-# 👋 Hey! What's up fellas
+# 👋 Hey! What's up fellas.
 
 <div align="center">
 
